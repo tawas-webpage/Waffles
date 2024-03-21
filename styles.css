@@ -28,14 +28,14 @@ nav li {
 nav a {
     display: block;
     background-color: #000000;
-    color: #FF0000;
+    color: #FF7323;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 nav a:hover {
-    background-color: #FF0000;
+    background-color: #FF7323;
     color: black;
 }
 
@@ -46,7 +46,7 @@ nav a:hover {
 .myHeader {
     background-color: black;
     padding: 30px;
-    color: #FF0000;
+    color: #FF7323;
     text-align: center;
 }
 
@@ -70,7 +70,7 @@ nav a:hover {
     left: 0;
     background-color: #000000;
     padding-top: 20px;
-    border-right: 5px solid #FF0000; 
+    border-right: 5px solid #FF7323; 
     overflow-y: auto;
     transition: width 0.3s; 
 
@@ -80,7 +80,7 @@ nav a:hover {
     padding: 25px;
     text-decoration: none;
     font-size: 21px;
-    color: #FF0000;
+    color: #FF7323;
     display: block;
     transition: 0.3s;
 }
@@ -88,7 +88,7 @@ nav a:hover {
 
 .side-menu a:hover {
     color: #000000;
-    background-color: #FF0000;
+    background-color: #FF7323;
 }
 
 
@@ -100,7 +100,7 @@ nav a:hover {
 }
 
 .side-menu::-webkit-scrollbar-thumb {
-    background-color: #FF0000; 
+    background-color: #FF7323; 
 }
 
 .side-menu::-webkit-scrollbar-track {
